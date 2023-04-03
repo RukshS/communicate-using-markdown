@@ -16,3 +16,8 @@
 </body>
 </html>
 ```
+
+## To Do
+- [x] Create a README.md about myself in my personal repository
+- [x] Learn GitHub markdown
+- [ ] Learn other short courses on GitHub
